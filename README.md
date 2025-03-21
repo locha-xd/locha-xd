@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=22&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+Silva's+Tech+Hub!;Frontend+Developer+|+Bot+Creator+|+API+Wizard;Lover+of+Innovative+Projects+✨;Building+the+Future,+One+Line+at+a+Time💡;Stay+Curious,+Stay+Creative!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=22&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+locha+xd!;Frontend+Developer+|+Bot+Creator+|+API+Wizard;Lover+of+Innovative+Projects+✨;Building+the+Future,+One+Line+at+a+Time💡;Stay+Curious,+Stay+Creative!">
   </a>
 </p>
